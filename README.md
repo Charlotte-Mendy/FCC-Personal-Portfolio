@@ -1,4 +1,4 @@
-# FCC - Technical Documentation Page
+# FCC - Personal Portfolio
 This project is realized as part of FreeCodeCamp Responsive Web Design project  
 ## Specifications
 See related user stories :  
